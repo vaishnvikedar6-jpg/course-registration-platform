@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automated Course Registration Platform with Jenkins and Docker CI/CD
 
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
@@ -456,3 +457,6 @@ Follow this exact scenario during viva or practical evaluation to prove that aut
 - [ ] **Admin Course Edit**: Validation error preventing capacity reduction below enrolled students.
 - [ ] **Health API Endpoint**: Browser showing `{"status":"healthy","database":"connected"}`.
 - [ ] **Docker CLI**: `docker ps` displaying active container and port mapping.
+=======
+# course-registration-platform
+>>>>>>> f1a5619ee7d92555742f0b1528b13f58b392dcec
